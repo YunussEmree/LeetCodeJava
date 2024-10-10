@@ -2,6 +2,8 @@
 
 System.gc() -> run garbage collection. Good for memory but not good for runtime. <br>
  <br>
+ <br>
+ <br>
 System.arraycopy() -> optimize a copy array method. Good for memory and runtime. <br>
  <br>
 usage of method -> <br>
