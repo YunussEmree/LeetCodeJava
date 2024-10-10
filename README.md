@@ -15,3 +15,7 @@ sourcePos : starting position in source array from where to copy<br>
 dest_arr : array to be copied in<br>
 destPos : starting position in destination array, where to copy in<br>
 len : total no. of components to be copied.<br>
+<br>
+<br>
+char c = 'c';<br>
+(int) c -> Returning ascii code of character<br>
