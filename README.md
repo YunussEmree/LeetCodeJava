@@ -1,8 +1,9 @@
 # Some good methods learned from leetcode problems
 
 System.gc() -> run garbage collection. Good for memory but not good for runtime. <br>
-<br>
+ <br>
 System.arraycopy() -> optimize a copy array method. Good for memory and runtime. <br>
+ <br>
 usage of method -> <br>
 public static void arraycopy(Object source_arr, int sourcePos, <br>
                             Object dest_arr, int destPos, int len)<br>
